@@ -1,0 +1,11 @@
+.margin{
+ background-color: honeydew;
+ padding-left: 30px;
+}
+.table{
+padding-right: 40px;
+}
+.form-control{
+    padding-right: 400px;
+    max-width: 500px;
+}
